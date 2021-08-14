@@ -18,6 +18,7 @@
 1. BepInExの導入、及びマネージコードストリッピングされていないdllファイルを適用したゲーム本体を準備する
   * 手順: https://github.com/pri-san/KemonoFriendsCMC.Mods.HowToInstall/blob/main/README.md
 2. `(ゲーム本体のルート)\BepInEx\plugins`に本パッチの実行ファイル(`KemonoFriendsCMC.Mods.ShowUsingMod.dll`)を配置する
+  * 本パッチの実行ファイル: https://github.com/pri-san/KemonoFriendsCMC.Mods.ShowUsingMod/releases の最新バージョンのKemonoFriendsCMC.Mods.ShowUsingMod.dll
 
 ## 動作確認環境
 
