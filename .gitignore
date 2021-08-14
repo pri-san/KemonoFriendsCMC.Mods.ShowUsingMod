@@ -1,0 +1,7 @@
+/.vs
+
+/dll/*
+!/dll/.gitkeep
+
+/KemonoFriendsCMC.Mods.ShowUsingMod/bin
+/KemonoFriendsCMC.Mods.ShowUsingMod/obj
